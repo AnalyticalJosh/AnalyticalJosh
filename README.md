@@ -3,7 +3,7 @@
 - and operational efficiencies.
 - 🌱 I’m currently learning data analytics and machine learning at NIIT
 - 💞️ I’m looking to collaborate on data analytics project, solving business cases
-- 📫 You can reach me via my email Joshmakolo11@outlook.com or my linkedin profile www.linkedin.com/in/josh-makolo-a353b931a
+- 📫 You can reach me via my email Joshmakolo11@outlook.com or my linkedin profile www.linkedin.com/in/joshua-makolo-61168431a
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I have natural curiosity about how information can be transformed into actionable knowledge.
 
